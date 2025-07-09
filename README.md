@@ -2,6 +2,17 @@
 
 ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=iamvibecoding&data=followers,repositories,stars,commits&theme=darkmode)
 
+# 👋 Hey, I'm Vibe Coder
+
+> 🎧 Also known as `@iamvibecoder` on Instagram, X, and YouTube.
+
+- 🔗 [Instagram](https://instagram.com/iamvibecoder)
+- 🧵 [X (Twitter)](https://x.com/iamvibecoder)
+- 📹 [YouTube](https://youtube.com/@iamvibecoder)
+- 💻 [GitHub Projects](https://github.com/iamvibecoding)
+
+🚀 Building chill tools, clean code, and creative vibes.
+
 # Programming Languages 
 <p align="">
   <a href="#">
