@@ -13,13 +13,13 @@
 # Programming Languages 
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,javascript,ts,php,gherkin" />
+    <img src="https://skillicons.dev/icons?i=cs,python,ts" />
   </a>
 </p>
 
 #####  Technologies    |   Frameworks   |   Databases   |   Tools 
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,git,github,express,gcp,html,nodejs,netlify,nginx,nextjs,redux,sass,tailwind,bootstrap,css,materialui,firebase,sqlite,mysql,mongodb,postgres,supabase,vscode,github,selenium,eclipse,visualstudio,powershell,figma,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=mcp,ai,react,git,gcp,nodejs,nextjs,firebase,mysql,mongodb,postgres,figma" />
   </a>
 </p>
