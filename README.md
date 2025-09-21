@@ -18,6 +18,6 @@
 #####  Technologies    |   Frameworks   |   Databases   |   Tools 
 <p align="">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=oauth,react,git,gcp,nodejs,nextjs,firebase,mysql,mongodb,postgres,figma" />
+    <img src="https://skillicons.dev/icons?i=.net,react,git,gcp,nodejs,nextjs,firebase,mysql,mongodb,postgres,figma" />
   </a>
 </p>
