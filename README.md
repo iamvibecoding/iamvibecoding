@@ -1,7 +1,5 @@
 
-📸 Instagram: [@iamvibecoder](https://instagram.com/iamvibecoder)  
-💻 GitHub: [@iamvibecoding](https://github.com/iamvibecoding)  
-📹 YouTube: [@iamvibecoder](https://youtube.com/@iamvibecoder)  
+💻 GitHub: [@iamvibecoding](https://github.com/iamvibecoding)
 📝 Dev Blog: [dev.to/iamvibecoding](https://dev.to/iamvibecoding)  
 🐦 X (Twitter): [@iamvibecoder](https://x.com/iamvibecoder)
 
